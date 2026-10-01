@@ -2544,7 +2544,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"df8fbbd06c407a940a21f74502cc5409\",\"type\":3}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -3392,7 +3392,7 @@
     "m_ObjectId": "6da6e864eb7e4bfcaed9a93900488759",
     "m_Title": "Soft Particle Factor",
     "m_Position": {
-        "x": -1774.000244140625,
+        "x": -1774.0,
         "y": 423.0
     }
 }
@@ -3428,7 +3428,7 @@
     "m_ObjectId": "713812b460c7477fb45d7e241cdfdd92",
     "m_Title": "Alpha",
     "m_Position": {
-        "x": -672.000244140625,
+        "x": -672.0,
         "y": 345.0
     }
 }
